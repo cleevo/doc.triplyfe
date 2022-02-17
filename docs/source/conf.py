@@ -2,8 +2,8 @@
 
 # -- Project information
 
-project = 'Sirkular'
-copyright = '2021, Teguh Budiyono'
+project = 'Dokumentasi Triplyfe'
+copyright = '2022, triplyfe.id'
 author = 'Teguh Budiyono'
 
 release = '0.1'
