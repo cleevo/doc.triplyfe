@@ -8,8 +8,11 @@ dan melakukan transaksi setiap pengguna diharuskan melakukan registrasi menjadi 
 
 Berikut beberapa langkah yang dilakukan untuk mendaftar menjadi anggota :
 
-1. Buka browser, masukkan alamat url: https://triplyfe.id
-2. Klik menu Sign Up di sisi sebelah kanan atas.
-3. Isi field-field yang ada sesuai dengan data yang Anda miliki.
+1. Buka browser, masukkan alamat url: https://triplyfe.id.
+2. Klik menu SIGN UP di sisi sebelah kanan atas.
+3. Pada menu pop-up yang muncul, isi field-field yang ada sesuai dengan data yang Anda miliki. Jika tertarik menerima informasi-informasi terkait diskon khusus, 
+promo maupun aktivitas-aktivitas baru yang menarik, Tripster bisa melakukan cek pada kotak checkbox di sisi bawah. Setelah selesai, klik tombol Sign Up.
+4. Demi kepentingan pengguna, untuk menghindari kemungkinan Anda didaftarkan oleh orang yang tidak berkepentingan, triplyfe.id akan mengirimkan email konfirmasi melalui 
+alamat email yang telah Tripster masukkan sebelumnya. Klik confirm, dengan demikian Anda telah resmi menyandang sebutan Tripster dan berhak atas fitur-fitur yang kami tawarkan.
 
     
