@@ -9,6 +9,8 @@ dan melakukan transaksi setiap pengguna diharuskan melakukan registrasi menjadi 
 Berikut beberapa langkah yang dilakukan untuk mendaftar menjadi anggota :
 
 - Buka browser, masukkan alamat url: https://triplyfe.id.
+  .. image:: home.jpg
+
   
 - Klik menu SIGN UP di sisi sebelah kanan atas.
   
