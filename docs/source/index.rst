@@ -24,5 +24,5 @@ Useful links:
    :maxdepth: 1
    :caption: Akun Pengguna
 
-   Menjadi Anggota
-   Menjadi Mitra
+   become-member
+   become-partner
