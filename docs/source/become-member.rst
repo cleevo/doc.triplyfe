@@ -16,6 +16,6 @@ Berikut beberapa langkah yang dilakukan untuk mendaftar menjadi anggota :
   promo maupun aktivitas-aktivitas baru yang menarik, Tripster bisa melakukan cek pada kotak checkbox di sisi bawah. Setelah selesai, klik tombol Sign Up.
 
 - Demi kepentingan pengguna, untuk menghindari kemungkinan Anda didaftarkan oleh orang yang tidak berkepentingan, triplyfe.id akan mengirimkan email konfirmasi melalui 
-alamat email yang telah Tripster masukkan sebelumnya. Klik confirm, dengan demikian Anda telah resmi menyandang sebutan Tripster dan berhak atas fitur-fitur yang kami tawarkan.
+  alamat email yang telah Tripster masukkan sebelumnya. Klik confirm, dengan demikian Anda telah resmi menyandang sebutan Tripster dan berhak atas fitur-fitur yang kami tawarkan.
 
     
