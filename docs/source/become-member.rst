@@ -1,7 +1,10 @@
 
 =======================
-Daftar Sebagai Traveler
+Traveler
 =======================
+
+Bergabung sebagai Tripster
+==========================
 
 Untuk mengakses platform Triplyfe ID Anda tidak perlu menjadi pengguna lebih dahulu. Namun demikian untuk mengakses fitur-fitur yang disediakan 
 dan melakukan transaksi setiap pengguna diharuskan melakukan registrasi menjadi anggota lebih dahulu.

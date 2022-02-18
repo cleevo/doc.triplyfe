@@ -1,7 +1,11 @@
 
 ===========================
-Registrasi Travel Organizer
+Travel Organizer
 ===========================
+
+Registrasi sebagai Travel Organizer
+===================================
+|
 
 Install postgresql container:
 
