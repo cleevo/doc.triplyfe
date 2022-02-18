@@ -22,7 +22,7 @@ Useful links:
 
 .. toctree::
    :maxdepth: 1
-   :caption: Akun Pengguna
+   :caption: Edukasi Pengguna
 
    become-member
    become-partner
