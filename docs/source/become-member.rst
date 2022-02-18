@@ -37,6 +37,8 @@ Berikut beberapa langkah yang dilakukan untuk mendaftar menjadi anggota :
 
 Melakukan pemesanan open trip
 =============================
+|
 
 Melakukan pembayaran
 ====================
+|
