@@ -13,8 +13,7 @@ Berikut beberapa langkah yang dilakukan untuk mendaftar menjadi anggota :
 .. image:: images/home.jpg
    :align: center
    :width: 600
-
-
+| 
 - Klik menu :guilabel:`SIGNUP` di sisi sebelah kanan atas.
   
 - Pada menu pop-up yang muncul, isi field-field yang ada sesuai dengan data yang Anda miliki. Jika tertarik menerima informasi-informasi terkait diskon khusus, 
@@ -24,8 +23,7 @@ Berikut beberapa langkah yang dilakukan untuk mendaftar menjadi anggota :
    :align: center
    :width: 600
    :scale: 50
-
-
+| 
 - Demi kepentingan pengguna, untuk menghindari kemungkinan Anda didaftarkan oleh orang yang tidak berkepentingan, triplyfe.id akan mengirimkan email konfirmasi melalui 
   alamat email yang telah Tripster masukkan sebelumnya. Klik :guilabel:`Confirm Account`, dengan demikian Anda telah resmi menyandang sebutan Tripster dan berhak atas fitur-fitur yang kami tawarkan.
 
