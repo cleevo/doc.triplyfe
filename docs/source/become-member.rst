@@ -3,7 +3,7 @@
 Daftar Menjadi Anggota
 ======================
 
-:guilabel:`SIGNUP` Untuk mengakses platform Triplyfe ID Anda tidak perlu menjadi pengguna lebih dahulu. Namun demikian untuk mengakses fitur-fitur yang disediakan 
+Untuk mengakses platform Triplyfe ID Anda tidak perlu menjadi pengguna lebih dahulu. Namun demikian untuk mengakses fitur-fitur yang disediakan 
 dan melakukan transaksi setiap pengguna diharuskan melakukan registrasi menjadi anggota lebih dahulu.
 
 Berikut beberapa langkah yang dilakukan untuk mendaftar menjadi anggota :
@@ -15,7 +15,7 @@ Berikut beberapa langkah yang dilakukan untuk mendaftar menjadi anggota :
    :width: 600
 
 
-- Klik menu :guilabel:`SIGNUP` di sisi sebelah kanan atas.
+- Klik menu SIGN UP di sisi sebelah kanan atas.
   
 - Pada menu pop-up yang muncul, isi field-field yang ada sesuai dengan data yang Anda miliki. Jika tertarik menerima informasi-informasi terkait diskon khusus, 
   promo maupun aktivitas-aktivitas baru yang menarik, Tripster bisa melakukan cek pada kotak checkbox di sisi bawah. Setelah selesai, klik tombol Sign Up.
