@@ -13,7 +13,7 @@ Berikut beberapa langkah yang dilakukan untuk mendaftar menjadi anggota :
 .. image:: images/home.jpg
    :align: center
    :width: 600
-| 
+|
 - Klik menu :guilabel:`SIGNUP` di sisi sebelah kanan atas.
   
 - Pada menu pop-up yang muncul, isi field-field yang ada sesuai dengan data yang Anda miliki. Jika tertarik menerima informasi-informasi terkait diskon khusus, 
@@ -30,5 +30,4 @@ Berikut beberapa langkah yang dilakukan untuk mendaftar menjadi anggota :
 .. image:: images/confirm.jpg
    :align: center
    :width: 1000
-
-    
+|
