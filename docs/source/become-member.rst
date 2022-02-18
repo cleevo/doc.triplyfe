@@ -10,8 +10,9 @@ Berikut beberapa langkah yang dilakukan untuk mendaftar menjadi anggota :
 
 - Buka browser, masukkan alamat url: https://triplyfe.id
   
-.. image:: home.png
-  :width: 400
+.. image:: /images/home.png
+   :align: center
+   :width: 400
 
 - Klik menu SIGN UP di sisi sebelah kanan atas.
   
