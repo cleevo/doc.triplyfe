@@ -15,7 +15,7 @@ Berikut beberapa langkah yang dilakukan untuk mendaftar menjadi Travel Organizer
 .. image:: images/joinOrganizer.jpg
    :align: center
    :width: 600
-|
+
 Functions:
 
 - ``Organizer Name``: Isi dengan nama entitas travel organizer Anda;
