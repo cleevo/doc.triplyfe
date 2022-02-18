@@ -34,3 +34,9 @@ Berikut beberapa langkah yang dilakukan untuk mendaftar menjadi anggota :
    :align: center
    :width: 1000
 |
+
+Melakukan pemesanan open trip
+=============================
+
+Melakukan pembayaran
+====================
