@@ -30,8 +30,11 @@ Double Opt-in
 -------------
 
 Seseorang mendaftar untuk masuk ke list, lalu Anda mengirim email konfirmasi dengan sebuah link yang harus mereka klik sebelum mereka masuk ke dalam contact list Anda. Jika mereka tidak meng-klik link tersebut, mereka tidak akan masuk ke dalam list. Menurut pendapat kami, ini merupakan cara terbaik untuk menangani contact list Anda. Kelebihan pendekatan ini antara lain :
+
 - Hanya orang yang benar-benar tertarik mendengar pesan dari Anda yang akan melakukan double opt-in, sehingga persentase click-through rate (tingkat keterbukaan) terhadap email yang dikirim akan jauh lebih tinggi (ada perbedaan 20% lebih tinggi dengan double opt-in).
+
 - Karena audiens Anda benar-benar ingin mendengar pesan dari Anda, Anda bisa mengisi email dengan lebih banyak iklan yang bisa Anda jual.
+
 - Pesaing Anda tidak akan mampu mendaftar ke dalam contact list Anda, lalu melaporkan Anda sebagai tukang spam, karena Anda memiliki bukti bahwa mereka double opt-in. Oh ya, ini memang sering terjadi.
 
 Kekurangan? Beberapa pelaku marketing khawatir kalau orang akan merasa metode ini terlalu ribet dan tidak akan pernah mengklik link konfirmasi yang dikirim.
