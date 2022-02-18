@@ -3,7 +3,7 @@
 Daftar Menjadi Anggota
 ======================
 
-Untuk mengakses platform Triplyfe ID Anda tidak perlu menjadi pengguna lebih dahulu. Namun demikian untuk mengakses fitur-fitur yang disediakan 
+:guilabel:`SIGNUP` Untuk mengakses platform Triplyfe ID Anda tidak perlu menjadi pengguna lebih dahulu. Namun demikian untuk mengakses fitur-fitur yang disediakan 
 dan melakukan transaksi setiap pengguna diharuskan melakukan registrasi menjadi anggota lebih dahulu.
 
 Berikut beberapa langkah yang dilakukan untuk mendaftar menjadi anggota :
