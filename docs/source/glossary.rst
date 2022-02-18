@@ -9,10 +9,10 @@ Glossary
 
 ------------------------------------------------------------------------------
 
-json interface
+Tripster
 =====================
 
-The json interface is a json object describing the `Application Binary Interface (ABI) <https://github.com/ethereum/wiki/wiki/Ethereum-Contract-ABI>`_ for an Ethereum smart contract.
+Di triplyfe.id kami menyebut traveler yang `bergabung <https://triplyfe.id/signup>`` dan merasakan pengalaman-pengalaman unik bersama kami sebagai TRIPSTER.
 
 Using this json interface web3.js is able to create JavaScript object representing the smart contract and its methods and events using the :ref:`web3.eth.Contract object <eth-contract>`.
 
@@ -32,66 +32,4 @@ Functions:
   - ``name``: the name of the parameter;
   - ``type``: the canonical type of the parameter.
 - ``outputs``: an array of objects same as ``inputs``, can be omitted if no outputs exist.
-
-Events:
-
-- ``type``: always ``"event"``
-- ``name``: the name of the event;
-- ``inputs``: an array of objects, each of which contains:
-
-  - ``name``: the name of the parameter;
-  - ``type``: the canonical type of the parameter.
-  - ``indexed``: ``true`` if the field is part of the log's topics, ``false`` if it one of the log's data segment.
-- ``anonymous``: ``true`` if the event was declared as ``anonymous``.
-
-
--------
-Example
--------
-
-.. code-block:: javascript
-
-    contract Test {
-        uint a;
-        address d = 0x12345678901234567890123456789012;
-
-        function Test(uint testInt)  { a = testInt;}
-
-        event Event(uint indexed b, bytes32 c);
-
-        event Event2(uint indexed b, bytes32 c);
-
-        function foo(uint b, bytes32 c) returns(address) {
-            Event(b, c);
-            return d;
-        }
-    }
-
-    // would result in the JSON:
-    [{
-        "type":"constructor",
-        "payable":false,
-        "stateMutability":"nonpayable"
-        "inputs":[{"name":"testInt","type":"uint256"}],
-      },{
-        "type":"function",
-        "name":"foo",
-        "constant":false,
-        "payable":false,
-        "stateMutability":"nonpayable",
-        "inputs":[{"name":"b","type":"uint256"}, {"name":"c","type":"bytes32"}],
-        "outputs":[{"name":"","type":"address"}]
-      },{
-        "type":"event",
-        "name":"Event",
-        "inputs":[{"indexed":true,"name":"b","type":"uint256"}, {"indexed":false,"name":"c","type":"bytes32"}],
-        "anonymous":false
-      },{
-        "type":"event",
-        "name":"Event2",
-        "inputs":[{"indexed":true,"name":"b","type":"uint256"},{"indexed":false,"name":"c","type":"bytes32"}],
-        "anonymous":false
-    }]
-
-------------------------------------------------------------------------------
 
