@@ -19,7 +19,7 @@ Berikut beberapa langkah yang dilakukan untuk mendaftar menjadi Travel Organizer
 Parameters:
 
    - ``Organizer Name``: Isi dengan nama entitas travel organizer Anda;
-   - ``Product Type``: Pilih kategori usaha yang ditawarkan;
+   - ``Product Type``: ``"Open Trip"``, ``"Car Rent"``, ``"Hotel/Villa"``, ``"Ticketing"`` Pilih kategori usaha yang ditawarkan;
    - ``Email Address``: Isi dengan alamat email;
    - ``Phone``: Isi dengan nomor telephone aktif;
 
