@@ -18,10 +18,10 @@ Berikut beberapa langkah yang dilakukan untuk mendaftar menjadi Travel Organizer
 
 Parameters:
 
- ``Organizer Name``: Isi dengan nama entitas travel organizer Anda;
- ``Product Type``: Pilih kategori usaha yang ditawarkan;
- ``Email Address``: Isi dengan alamat email;
- ``Phone``: Isi dengan nomor telephone aktif;
+   - ``Organizer Name``: Isi dengan nama entitas travel organizer Anda;
+   - ``Product Type``: Pilih kategori usaha yang ditawarkan;
+   - ``Email Address``: Isi dengan alamat email;
+   - ``Phone``: Isi dengan nomor telephone aktif;
 
 - Pada menu yang muncul, isi field-field yang ada sesuai dengan data yang Anda miliki. Setelah selesai mengisi field-field yang diperlukan, klik tombol :guilabel:`SUBMIT`.
 
