@@ -1,7 +1,7 @@
 
-======================
-Register Menjadi Mitra
-======================
+===========================
+Registrasi Travel Organizer
+===========================
 
 Install postgresql container:
 
