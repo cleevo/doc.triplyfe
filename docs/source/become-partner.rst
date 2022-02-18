@@ -18,7 +18,7 @@ Berikut beberapa langkah yang dilakukan untuk mendaftar menjadi Travel Organizer
 |
 
 - Pada menu yang muncul, isi field-field yang ada sesuai dengan data yang Anda miliki. 
-|
+
 Parameters:
 
    - ``Organizer Name``: Isi dengan nama entitas travel organizer Anda;
