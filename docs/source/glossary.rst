@@ -3,6 +3,10 @@
 Glossary
 ========
 
+Traveler
+========
+
+Traveler adalah orang-orang yang melakukan perjalanan (travelling). Perjalanan ini bisa dilakukan dengan jarak pendek atau pun jarak jauh.
 
 
 Tripster
@@ -10,7 +14,7 @@ Tripster
 
 Di triplyfe.id kami menyebut traveler yang `bergabung <https://triplyfe.id/signup/>`__ dan merasakan pengalaman-pengalaman unik bersama kami sebagai Tripster.
 
-
+..
 -------------
 Specification
 -------------
