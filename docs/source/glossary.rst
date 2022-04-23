@@ -17,20 +17,21 @@ Travel
     sedang berlangsung saat kamu mengatakannya, kamu bisa menggunakan kata “travelling” sebagai present participle dari kata “travel”.
 Traveler
     Traveler adalah orang-orang yang melakukan perjalanan (travelling). Perjalanan ini bisa dilakukan dengan jarak pendek atau pun jarak jauh.
-Travel Organizer
-    Definition for travel organizer
 Tour
     Sama halnya dengan kata trip, kata tour juga termasuk sebagai kata benda atau noun. Kata yang satu ini memiliki makna “perjalanan yang dilakukan 
     ke beberapa tempat, bisa daerah, kota, hingga negara”. Hal ini bisa digunakan untuk mendeskripsikan sebuah perjalanan yang menyenangkan dan 
     dilakukan secara berkelanjutan ke beberapa tempat. Meski demikian, kata ini sebenarnya juga bisa difungsikan sebagai verb layaknya “travel”. 
     Biasanya, jika digunakan sebagai kata kerja, tour bermakna aktivitas bepergian yang dilakukan ke beberapa tempat secara berkelanjutan.
+Tour Organizer
+    sebuah biro dan agen perjalanan wisata yang menyediakan akomodasi dan fasilitas kegiatan berwisata yang sekaligus menyediakan kebutuhan perlengkapan 
+    program acara dan kebutuhan lainnya yang menyertai kegiatan berwisata tersebut.
 Trip
     Secara harfiah, kata “trip” artinya adalah sebuah perjalanan, biasanya bolak-balik ke suatu tempat. Meski bisa digunakan untuk perjalanan jauh, 
     kata “trip” akan lebih sesuai digunakan untuk perjalanan singkat yang sengaja dilakukan untuk kesenangan atau menyenangkan diri sendiri. 
     Dalam bahasa Inggris, kamu bisa menggunakan kata “trip” yang berupa kata benda atau noun untuk menceritakan perjalanan kerja (business trip), 
     liburan singkat (short trip), atau liburan sekolah (school trip).
 Triplyfe
-    Definition for term
+    Merupakan platform marketplace yang mempertemukan para pelaku industri pariwisata dengan para penggunanya (wisatawan/traveler).
 Tripster
     Di triplyfe.id kami menyebut traveler yang `bergabung <https://triplyfe.id/signup/>`__ dan merasakan pengalaman-pengalaman unik bersama kami sebagai Tripster.
 
