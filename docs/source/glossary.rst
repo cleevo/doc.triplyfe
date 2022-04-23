@@ -3,10 +3,11 @@
 Glossary
 ========
 
+
 Aktivitas
     Definition for Aktivitas
 Traveler
-    Definition for traveler
+    Traveler adalah orang-orang yang melakukan perjalanan (travelling). Perjalanan ini bisa dilakukan dengan jarak pendek atau pun jarak jauh.
 Trip
     Definition for trip
 Triplyfe
