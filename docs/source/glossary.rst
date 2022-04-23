@@ -6,12 +6,24 @@ Glossary
 
 Aktivitas
     Definition for Aktivitas
+Journey
+    Sedikit berbeda dengan ketiga kata lainnya, journey yang tergolong sebagai kata benda atau noun ini memiliki makna 
+    “sebuah perjalanan panjang yang jauh dan memakan waktu lama.” Biasanya, kata journey juga bisa digunakan untuk mengatakan “perjalanan hidup” dalam bahasa Inggris.
 Travel
-    Kata “travel” dalam bahasa Inggris biasanya bisa diartikan sebagai “bepergian”. Itu sebabnya, saat kamu jalan-jalan ke berbagai tempat dalam jarak yang cukup jauh, kamu bisa disebut sedang travelling. Kata ini sebenarnya tidak berbeda jauh maknanya dengan kata “trip”. Akan tetapi, jika “trip” adalah kata benda atau noun, kata “travel” termasuk sebagai kata kerja atau verb. Dalam bahasa Inggris, kamu bisa menggunakan kata “travel” untuk menunjukkan aksi atau kegiatan yang dilakukan dan berkaitan dengan bepergian. Jika kegiatan tersebut sedang berlangsung saat kamu mengatakannya, kamu bisa menggunakan kata “travelling” sebagai present participle dari kata “travel”.
+    Kata “travel” dalam bahasa Inggris biasanya bisa diartikan sebagai “bepergian”. Itu sebabnya, saat kamu jalan-jalan ke berbagai tempat 
+    dalam jarak yang cukup jauh, kamu bisa disebut sedang travelling. Kata ini sebenarnya tidak berbeda jauh maknanya dengan kata “trip”. 
+    Akan tetapi, jika “trip” adalah kata benda atau noun, kata “travel” termasuk sebagai kata kerja atau verb. Dalam bahasa Inggris, 
+    kamu bisa menggunakan kata “travel” untuk menunjukkan aksi atau kegiatan yang dilakukan dan berkaitan dengan bepergian. Jika kegiatan tersebut 
+    sedang berlangsung saat kamu mengatakannya, kamu bisa menggunakan kata “travelling” sebagai present participle dari kata “travel”.
 Traveler
     Traveler adalah orang-orang yang melakukan perjalanan (travelling). Perjalanan ini bisa dilakukan dengan jarak pendek atau pun jarak jauh.
 Travel Organizer
     Definition for travel organizer
+Tour
+    Sama halnya dengan kata trip, kata tour juga termasuk sebagai kata benda atau noun. Kata yang satu ini memiliki makna “perjalanan yang dilakukan 
+    ke beberapa tempat, bisa daerah, kota, hingga negara”. Hal ini bisa digunakan untuk mendeskripsikan sebuah perjalanan yang menyenangkan dan 
+    dilakukan secara berkelanjutan ke beberapa tempat. Meski demikian, kata ini sebenarnya juga bisa difungsikan sebagai verb layaknya “travel”. 
+    Biasanya, jika digunakan sebagai kata kerja, tour bermakna aktivitas bepergian yang dilakukan ke beberapa tempat secara berkelanjutan.
 Trip
     Secara harfiah, kata “trip” artinya adalah sebuah perjalanan, biasanya bolak-balik ke suatu tempat. Meski bisa digunakan untuk perjalanan jauh, 
     kata “trip” akan lebih sesuai digunakan untuk perjalanan singkat yang sengaja dilakukan untuk kesenangan atau menyenangkan diri sendiri. 
