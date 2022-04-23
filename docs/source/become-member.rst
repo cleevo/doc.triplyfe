@@ -35,8 +35,12 @@ Berikut beberapa langkah yang dilakukan untuk mendaftar menjadi anggota :
    :width: 1000
 |
 
-Melakukan pemesanan open trip
-=============================
+Bergabung dalam open trip
+=========================
+|
+
+Memesan private trip
+=========================
 |
 
 Melakukan pembayaran
