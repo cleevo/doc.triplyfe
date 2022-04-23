@@ -3,7 +3,7 @@
 Traveler
 =======================
 
-Bergabung sebagai Tripster
+Bergabung sebagai Traveler
 ==========================
 
 Untuk mengakses platform Triplyfe ID Anda tidak perlu menjadi pengguna lebih dahulu. Namun demikian untuk mengakses fitur-fitur yang disediakan 
