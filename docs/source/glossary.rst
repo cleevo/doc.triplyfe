@@ -33,7 +33,7 @@ Trip
 Triplyfe
     Merupakan platform marketplace yang mempertemukan para pelaku industri pariwisata dengan para penggunanya (wisatawan/traveler).
 Tripster
-    Di triplyfe.id kami menyebut semua pengguna yang `bergabung dengan triplyfe<https://triplyfe.id/>`__ baik sebagai traveler maupun pelaku industri pariwisata yang 
+    Di triplyfe.id kami menyebut semua pengguna yang `bergabung dengan triplyfe <https://triplyfe.id/>`__ baik sebagai traveler maupun pelaku industri pariwisata yang 
     memberikan dan atau merasakan pengalaman-pengalaman unik bersama kami sebagai Tripster.
 
 ..
