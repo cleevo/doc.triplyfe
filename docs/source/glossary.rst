@@ -27,7 +27,11 @@ Tripster
 
 Di triplyfe.id kami menyebut traveler yang `bergabung <https://triplyfe.id/signup/>`__ dan merasakan pengalaman-pengalaman unik bersama kami sebagai Tripster.
 
-`Tripster`: Di triplyfe.id kami menyebut traveler yang `bergabung <https://triplyfe.id/signup/>`__ dan merasakan pengalaman-pengalaman unik bersama kami sebagai Tripster
+`Tripster` : Di triplyfe.id kami menyebut traveler yang `bergabung <https://triplyfe.id/signup/>`__ dan merasakan pengalaman-pengalaman unik bersama kami sebagai Tripster.
+
+*Tripster* : Di triplyfe.id kami menyebut traveler yang `bergabung <https://triplyfe.id/signup/>`__ dan merasakan pengalaman-pengalaman unik bersama kami sebagai Tripster.
+
+**Tripster**: Di triplyfe.id kami menyebut traveler yang `bergabung <https://triplyfe.id/signup/>`__ dan merasakan pengalaman-pengalaman unik bersama kami sebagai Tripster
 
 ..
   -------------
