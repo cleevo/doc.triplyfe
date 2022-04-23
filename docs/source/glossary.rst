@@ -3,43 +3,16 @@
 Glossary
 ========
 
----------
 Aktivitas
----------
-
---------
+    Definition for Aktivitas
 Traveler
---------
-
-Traveler adalah orang-orang yang melakukan perjalanan (travelling). Perjalanan ini bisa dilakukan dengan jarak pendek atau pun jarak jauh.
-
-----
+    Definition for traveler
 Trip
-----
-
---------
+    Definition for trip
 Triplyfe
---------
-
---------
-Tripster
---------
-
-Di triplyfe.id kami menyebut traveler yang `bergabung <https://triplyfe.id/signup/>`__ dan merasakan pengalaman-pengalaman unik bersama kami sebagai Tripster.
-
-``Tripster`` : Di triplyfe.id kami menyebut traveler yang `bergabung <https://triplyfe.id/signup/>`__ dan merasakan pengalaman-pengalaman unik bersama kami sebagai Tripster;
-
-`Tripster` : Di triplyfe.id kami menyebut traveler yang `bergabung <https://triplyfe.id/signup/>`__ dan merasakan pengalaman-pengalaman unik bersama kami sebagai Tripster.
-
-*Tripster* : Di triplyfe.id kami menyebut traveler yang `bergabung <https://triplyfe.id/signup/>`__ dan merasakan pengalaman-pengalaman unik bersama kami sebagai Tripster.
-
-**Tripster**: Di triplyfe.id kami menyebut traveler yang `bergabung <https://triplyfe.id/signup/>`__ dan merasakan pengalaman-pengalaman unik bersama kami sebagai Tripster.
-
-
-Term
     Definition for term
-Term2
-    Definition for term 2
+Tripster
+    Di triplyfe.id kami menyebut traveler yang `bergabung <https://triplyfe.id/signup/>`__ dan merasakan pengalaman-pengalaman unik bersama kami sebagai Tripster.
 
 ..
   -------------
