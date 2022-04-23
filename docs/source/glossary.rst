@@ -3,10 +3,22 @@
 Glossary
 ========
 
+
+Aktivitas
+=========
+
+
 Traveler
 ========
 
 Traveler adalah orang-orang yang melakukan perjalanan (travelling). Perjalanan ini bisa dilakukan dengan jarak pendek atau pun jarak jauh.
+
+Trip
+====
+
+
+Triplyfe
+========
 
 
 Tripster
