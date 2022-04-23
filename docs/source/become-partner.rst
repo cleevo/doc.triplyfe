@@ -6,7 +6,8 @@ Travel Organizer
 Registrasi sebagai Tour Organizer
 ===================================
 
-Platform TripLyfe ID memberi peluang kepada pengguna untuk menjangkau pelanggan yang lebih luas dengan membuak akses ke pasar pengguna TripLyfe dan juga memberikan tools yang diperlukan untuk mengelola sebuah Travel Organizer.
+Platform TripLyfe ID memberi peluang kepada pengguna untuk menjangkau pelanggan yang lebih luas dengan membuak akses ke pasar pengguna 
+TripLyfe dan juga memberikan tools yang diperlukan untuk mengelola sebuah Tour Organizer.
 
 Berikut beberapa langkah yang dilakukan untuk mendaftar menjadi Tour Organizer :
 
@@ -28,7 +29,8 @@ Berikut beberapa langkah yang dilakukan untuk mendaftar menjadi Tour Organizer :
 - Setelah selesai mengisi field-field yang diperlukan, klik tombol :guilabel:`SUBMIT`.
 
 - Demi kepentingan pengguna, untuk menghindari kemungkinan Anda didaftarkan oleh orang yang tidak berkepentingan, triplyfe.id akan mengirimkan email konfirmasi melalui 
-  alamat email yang telah Tripster masukkan sebelumnya. Klik :guilabel:`Confirm Account`, dengan demikian Anda telah resmi menyandang sebutan Tripster dan berhak atas fitur-fitur yang kami tawarkan.
+  alamat email yang telah Tripster masukkan sebelumnya. Klik :guilabel:`Confirm Account`, dengan demikian Anda telah resmi menyandang sebutan Tripster dan berhak atas 
+  fitur-fitur yang kami tawarkan.
 
 .. image:: images/confirm.jpg
    :align: center
