@@ -3,12 +3,12 @@
 Travel Organizer
 ===========================
 
-Registrasi sebagai Travel Organizer
+Registrasi sebagai Tour Organizer
 ===================================
 
 Platform TripLyfe ID memberi peluang kepada pengguna untuk menjangkau pelanggan yang lebih luas dengan membuak akses ke pasar pengguna TripLyfe dan juga memberikan tools yang diperlukan untuk mengelola sebuah Travel Organizer.
 
-Berikut beberapa langkah yang dilakukan untuk mendaftar menjadi Travel Organizer :
+Berikut beberapa langkah yang dilakukan untuk mendaftar menjadi Tour Organizer :
 
 - Buka browser, masukkan alamat url: https://triplyfe.id/joinOrganizer
 
@@ -20,7 +20,7 @@ Berikut beberapa langkah yang dilakukan untuk mendaftar menjadi Travel Organizer
 - Pada menu yang muncul, isi field-field yang ada sesuai dengan data yang Anda miliki. 
   Parameters:
 
-   - ``Organizer Name``: Isi dengan nama entitas travel organizer Anda;
+   - ``Organizer Name``: Isi dengan nama entitas tour organizer Anda;
    - ``Product Type``: ``"Open Trip"``, ``"Car Rent"``, ``"Hotel/Villa"``, ``"Ticketing"`` Pilih kategori usaha yang ditawarkan;
    - ``Email Address``: Isi dengan alamat email;
    - ``Phone``: Isi dengan nomor telephone aktif;
