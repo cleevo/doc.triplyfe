@@ -6,10 +6,17 @@ Glossary
 
 Aktivitas
     Definition for Aktivitas
+Travel
+    Kata “travel” dalam bahasa Inggris biasanya bisa diartikan sebagai “bepergian”. Itu sebabnya, saat kamu jalan-jalan ke berbagai tempat dalam jarak yang cukup jauh, kamu bisa disebut sedang travelling. Kata ini sebenarnya tidak berbeda jauh maknanya dengan kata “trip”. Akan tetapi, jika “trip” adalah kata benda atau noun, kata “travel” termasuk sebagai kata kerja atau verb. Dalam bahasa Inggris, kamu bisa menggunakan kata “travel” untuk menunjukkan aksi atau kegiatan yang dilakukan dan berkaitan dengan bepergian. Jika kegiatan tersebut sedang berlangsung saat kamu mengatakannya, kamu bisa menggunakan kata “travelling” sebagai present participle dari kata “travel”.
 Traveler
     Traveler adalah orang-orang yang melakukan perjalanan (travelling). Perjalanan ini bisa dilakukan dengan jarak pendek atau pun jarak jauh.
+Travel Organizer
+    Definition for travel organizer
 Trip
-    Definition for trip
+    Secara harfiah, kata “trip” artinya adalah sebuah perjalanan, biasanya bolak-balik ke suatu tempat. Meski bisa digunakan untuk perjalanan jauh, 
+    kata “trip” akan lebih sesuai digunakan untuk perjalanan singkat yang sengaja dilakukan untuk kesenangan atau menyenangkan diri sendiri. 
+    Dalam bahasa Inggris, kamu bisa menggunakan kata “trip” yang berupa kata benda atau noun untuk menceritakan perjalanan kerja (business trip), 
+    liburan singkat (short trip), atau liburan sekolah (school trip).
 Triplyfe
     Definition for term
 Tripster
