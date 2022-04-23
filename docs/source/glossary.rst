@@ -36,8 +36,10 @@ Di triplyfe.id kami menyebut traveler yang `bergabung <https://triplyfe.id/signu
 **Tripster**: Di triplyfe.id kami menyebut traveler yang `bergabung <https://triplyfe.id/signup/>`__ dan merasakan pengalaman-pengalaman unik bersama kami sebagai Tripster.
 
 
-Tripster
-~~~~~~~~~~
+Term
+    Definition for term
+Term2
+    Definition for term 2
 
 ..
   -------------
