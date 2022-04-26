@@ -43,6 +43,10 @@ Memesan private trip
 =========================
 |
 
+Memesan mobil sewa
+=========================
+|
+
 Melakukan pembayaran
 ====================
 |
