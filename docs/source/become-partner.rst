@@ -36,3 +36,15 @@ Berikut beberapa langkah yang dilakukan untuk mendaftar menjadi Tour Organizer :
    :align: center
    :width: 1000
 |    
+
+Membuat paket open trip
+=========================
+|
+
+Membuat paket private trip
+=========================
+|
+
+Membuat paket sewa mobil
+=========================
+|
