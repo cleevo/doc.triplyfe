@@ -3,7 +3,7 @@
 Travel Organizer
 ===========================
 
-Registrasi sebagai Tour Organizer
+Registrasi sebagai Tour Operator / Tour Organizer
 ===================================
 
 Platform TripLyfe ID memberi peluang kepada pengguna untuk menjangkau pelanggan yang lebih luas dengan membuak akses ke pasar pengguna 
